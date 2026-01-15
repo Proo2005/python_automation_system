@@ -1,0 +1,19 @@
+# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environments
+env/
+venv/
+.env
+
+# Secrets & Credentials (CRITICAL - DO NOT REMOVE)
+credentials/
+token.json
+credentials.json
+client_secret.json
+
+# IDE Settings (Optional)
+.vscode/
+.idea/
